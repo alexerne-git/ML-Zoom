@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f277b79c-e0c9-4cdb-8356-2f94f3499c45" name="Default Changelist" comment="developp the cleaning location problem">
-      <change beforePath="$PROJECT_DIR$/Code/Projet ML.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Projet ML.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="f277b79c-e0c9-4cdb-8356-2f94f3499c45" name="Default Changelist" comment="developp the cleaning location problem" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +53,7 @@
       <updated>1605541570959</updated>
       <workItem from="1605541574988" duration="536000" />
       <workItem from="1605579016122" duration="832000" />
+      <workItem from="1606266557609" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="developp the cleaning location problem">
       <created>1605579366590</created>
