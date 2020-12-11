@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="348514fc-bbfe-4ecf-bc56-5f42980ff789" name="Default Changelist" comment="" />
+    <list default="true" id="348514fc-bbfe-4ecf-bc56-5f42980ff789" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/.ipynb_checkpoints/ML_Project-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/.ipynb_checkpoints/ML_Project-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/ML_Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/ML_Project.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +88,10 @@
       <workItem from="1607388816693" duration="265000" />
       <workItem from="1607389088563" duration="228000" />
       <workItem from="1607389393611" duration="1309000" />
+      <workItem from="1607606517942" duration="795000" />
+      <workItem from="1607691512172" duration="392000" />
+      <workItem from="1607691911356" duration="917000" />
+      <workItem from="1607695002163" duration="1639000" />
     </task>
     <servers />
   </component>
