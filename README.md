@@ -30,6 +30,16 @@ Adding bigrams,trigrams graphics
 🥇 Results
 
 1st submission: 0.811
-2nd submission:0.813
-3rd submission:0.815
+2nd submission:No improvement
+3th submission: No improvement
+4rd submission:0.813
+5 submission : No improvement
+6 submission : Submission failed
+7 submission : Submission failed
+8 submission : No improvement
+9 submission : No improvement
+10 submission : No improvement
+11 submission : 0.15
+
+
 
