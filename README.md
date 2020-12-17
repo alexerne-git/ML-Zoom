@@ -39,7 +39,15 @@ Adding bigrams,trigrams graphics
 8 submission : No improvement
 9 submission : No improvement
 10 submission : No improvement
-11 submission : 0.15
+11 submission : 0.815
+
+
+Video presentation 
+
+link: https://youtu.be/182zBSIKF8Y
+
+
+
 
 
 
