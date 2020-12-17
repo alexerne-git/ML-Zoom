@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="348514fc-bbfe-4ecf-bc56-5f42980ff789" name="Default Changelist" comment="" />
+    <list default="true" id="348514fc-bbfe-4ecf-bc56-5f42980ff789" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Code/ML_Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/ML_Project.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +93,7 @@
       <workItem from="1607774547694" duration="2425000" />
       <workItem from="1607880531246" duration="600000" />
       <workItem from="1608051001984" duration="714000" />
-      <workItem from="1608213462637" duration="1458000" />
+      <workItem from="1608213462637" duration="2067000" />
     </task>
     <servers />
   </component>
